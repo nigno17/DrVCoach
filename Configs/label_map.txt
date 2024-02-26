@@ -1,0 +1,11 @@
+forward_arm_rotations 
+backward_arm_rotations
+lateral_bends 
+jumping_jacks
+frontal_bends
+hips_rotations
+lunges
+squats 
+seated_torso_rotations
+torso_rotations 
+bent_torso_rotations

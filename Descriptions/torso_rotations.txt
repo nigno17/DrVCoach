@@ -1,0 +1,11 @@
+torso_rotations description
+
+1. Stand in front of the camera with your elbows pointing
+   laterally, raised at the height of your shoulders, and your
+   legs slightly spread apart.
+
+2. Rotate your torso in one direction, looking backward.
+
+3. Return to a forward-facing position.
+
+4. Repeat the torso rotation in the other direction.

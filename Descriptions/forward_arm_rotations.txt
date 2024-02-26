@@ -1,0 +1,14 @@
+forward_arm_rotations description
+
+1. Stand in front of the camera with your hands at your sides.
+
+2. Keeping your arms straight, perform a continuous rotation
+   following this sequence:
+
+	a. Point your hands backward.
+
+	b. Rotate them upward.
+
+	c. Rotate them forward.
+
+	d. Bring them down to your sides.

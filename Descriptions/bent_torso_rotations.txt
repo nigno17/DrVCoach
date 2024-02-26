@@ -1,0 +1,11 @@
+bent_torso_rotations description
+
+1. Stand in front of the camera with your hands at your sides.
+
+2. Bend at the waist, reaching with one hand to touch the foot
+   on the opposite side, while extending the other hand toward the ceiling.
+
+3. Repeat the movement, switching sides. Use the opposite hand
+   to touch the opposite foot.
+
+4. Return to a standing position with your hands at your sides.

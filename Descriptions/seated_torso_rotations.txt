@@ -1,0 +1,11 @@
+seated_torso_rotations description
+
+1. Sit on a chair in front of the camera with both arms extended 
+   in front of you.
+
+2. Rotate your arms and torso in one direction, looking at yours
+   hands.
+
+3. Return to a forward-facing position.
+
+4. Repeat the torso rotation in the other direction.
